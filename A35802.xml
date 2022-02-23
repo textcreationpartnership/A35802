@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dainty new ditty of a saylor and his love how one the others constancy did prove : wherein is shown the sea mans constant mind, though at first he seem'd to her unkind : to a pleasant sea-faring tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35802</idno>
+            <idno type="STC">Wing D122</idno>
+            <idno type="STC">ESTC R41082</idno>
+            <idno type="EEBO-CITATION">19617862</idno>
+            <idno type="OCLC">ocm 19617862</idno>
+            <idno type="VID">109198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dainty new ditty of a saylor and his love how one the others constancy did prove : wherein is shown the sea mans constant mind, though at first he seem'd to her unkind : to a pleasant sea-faring tune.</title>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Without music.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English.</term>
+               <term>Sea songs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:109198:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <l>A dainty new Ditty of a Saylor and his Love,</l>
+               <l>How one the others conſtancy did prove;</l>
+               <l>Wherein is ſhown the Sea m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns conſtant mind,</l>
+               <l>Though at firſt he ſeem'd to her unkind.</l>
+            </head>
+            <opener>To a pleaſant Sea-faring Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>MY only love, th'rt welcom to the ſhore,</l>
+               <l>Thy abſence long ſhall grieve my heart no more,</l>
+               <l>Since thou art come thou muſt with me remain,</l>
+               <l>And not as yet go to the Seas again.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Content thy ſelf my dear, make no more ſtrife,</l>
+               <l>I am reſolved to lead a ſingle life:</l>
+               <l>I have a Voyage for to take in hand,</l>
+               <l>Which fits my humour better then the Land.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Caſt Anchor here, this Harbour ſhall be thine,</l>
+               <l>In Hymens Bands we will together joyn;</l>
+               <l>So ſhall I ſhelter thee from all annoy,</l>
+               <l>The Tydes of Love ſhall be thy ſafe Convoy.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Great <hi>Neptune</hi> gave my mind ſuch ſweet con<g ref="char:EOLhyphen"/>tent,</l>
+               <l>That I think time at Sea far better ſpent;</l>
+               <l>The Land to me brings grief and ſad annoys,</l>
+               <l>The Ocean yields a multitude of joys.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Inſtead of ſtorms, and bluſtering blaſts at Seas,</l>
+               <l>Thou ſhalt with ſafety reſt, and take thine eaſe,</l>
+               <l>Nor ſhalt thou watch by night in dangers deep,</l>
+               <l>Sweet Madrigals ſhall rock my Love aſleep.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>The luſty Ship in which I mean to go,</l>
+               <l>Dares to encounter with the proudeſt Foe,</l>
+               <l>And when the bouncing Cannons bark apace,</l>
+               <l>Then muſt I look my Enemies in the face.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>My bed ſhall be the ſhip wherein thou ſhalt ſail,</l>
+               <l>My breath ſhall alſo be the pleaſant Gale;</l>
+               <l>My ſtrong affections and infolded arms,</l>
+               <l>Shall be the Fort to keep thee from all harms.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>My truſty Cutleſs and Musket ſtill ſhall be,</l>
+               <l>The only refuge of defence for me:</l>
+               <l>My dyet ſhall be Beef and Bisket bread,</l>
+               <l>My Cabin ſhall ſuffice to hold my head.</l>
+            </sp>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>THou ſhalt not need to fear th' pagans power,</l>
+               <l>Which daily ſeek good Chriſtians to devour</l>
+               <l>Quickſands nor any other dangers ſhall,</l>
+               <l>Procure my death, to work my loves downfall.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>
+                  <hi>Bellona's</hi> bluſtering ſhot gives me delight,</l>
+               <l>When as the Enemies appear in ſight?</l>
+               <l>The ratling Drum, and the melodious Fife,</l>
+               <l>Bring comfort to a valiant Sea-mans life.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Inſtead of Drums and ratling Muskets ſound,</l>
+               <l>Which ſturbs the air, &amp; makes the ſea rebound,</l>
+               <l>Harps, Lutes, &amp; citterns ſhall moſt ſweetly play</l>
+               <l>And Flowers green ſhall crown thy head with bay.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>What though the fight be tedious to endure,</l>
+               <l>When all is ended, then ſhall we be ſure,</l>
+               <l>To be refreſh't, for we to prayers fall,</l>
+               <l>And heartily we give God thanks for all.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Thy mean attire, &amp; cloathing ſtain'd with pitch,</l>
+               <l>Shall be exchang'd for Gold and Silver rich;</l>
+               <l>The choiceſt that for money can be bought,</l>
+               <l>Shall (for thy ſake) both far &amp; near be ſought.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>My cloaths with pitch although they ſtained be,</l>
+               <l>They are the Garments that contenteth me,</l>
+               <l>The gayeſt Robes cannot the ſame excel,</l>
+               <l>Nor ſhall they pleaſe my fancy half ſo well.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>All pleaſure correſpondent to thy mind,</l>
+               <l>Shall be perform'd, if I the ſame can find,</l>
+               <l>and when thou haſt the thing that likes thée beſt</l>
+               <l>Then ſhall I think my ſelf moſt ſafe at reſt.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>My love is fixt upon the ſounding Main,</l>
+               <l>The Labyrinth of the Earth ſhall not obtain,</l>
+               <l>My company; for why I mean to have,</l>
+               <l>The Sea my wife, &amp; therein make my grave.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>O let the knot which no man can unty,</l>
+               <l>Be quickly knit betwixt my Love and I,</l>
+               <l>Whereby all men may underſtand and prove,</l>
+               <l>The firm affection of a Maidens love.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Let this ſuffice for all, and ſay no more,</l>
+               <l>I'le never wed whilſt I remain on ſhore,</l>
+               <l>In vain it is for you thus to complain,</l>
+               <l>I ſingle am; and ſo I will remain.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>Why then dear love ten thouſand times fare<g ref="char:EOLhyphen"/>wel,</l>
+               <l>My life is ſpent, go toll my paſſing-Bell,</l>
+               <l>Let all forſaken Maids lament my death,</l>
+               <l>Love is the cauſe for which I loſe my breath.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Nay ſtay ſweet-heart, 'twas only for to try,</l>
+               <l>Thy love to me, and faithful conſtancy;</l>
+               <l>And now I find thou doſt both ſay and hold<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>I will not leave thee for rich <hi>Creſus</hi> gold.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <l>My love (quoth ſhe) then uſe no more delay,</l>
+               <l>I long deſire to ſee that happy day:</l>
+               <l>That our hearts may be no longer twain,</l>
+               <l>But linkt in Love, and ſo for aye remain.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for John Wright, next to the Globe in Little-Brittain.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
